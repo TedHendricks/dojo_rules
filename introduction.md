@@ -6,3 +6,4 @@ My favorite course on CodeSchool is GitHub, though I've also enjoyed studying Ru
 *PHP & MySQL
 *Ruby on Rails
 *GitHub
+*Killing history using git rebase
